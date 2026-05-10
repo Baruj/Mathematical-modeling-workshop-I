@@ -1,4 +1,4 @@
-# Python
+# Python para no guardar cache
 __pycache__/
 *.py[cod]
 
