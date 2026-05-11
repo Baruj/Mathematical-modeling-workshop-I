@@ -24,3 +24,6 @@ desktop.ini
 # Editores
 .vscode/
 .idea/
+
+# Archivos que uso en Jupyter Notebook
+clase1Taller.ipynb
